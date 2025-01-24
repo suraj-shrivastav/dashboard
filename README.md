@@ -46,3 +46,13 @@ This dashboard is a work-in-progress, and fetching data was the most difficult p
 Thank you for reviewing this project!
 
 
+## Images
+
+<img src="../dashboard/src/assets/UserMetrics.png" alt="UserMetrics Screenshot" width="500"/>
+<img src="../dashboard/src/assets/Content.png" alt="Content Screenshot" width="500"/>
+<img src="../dashboard/src/assets/Engagement.png" alt="Engagement Screenshot" width="500"/>
+<img src="../dashboard/src/assets/Blockchain.png" alt="Blockchain Image" width="500"/>
+
+## Video
+
+<video src="../dashboard/src/assets/Video.mp4" controls width="500"></video>
