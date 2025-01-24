@@ -1,0 +1,1402 @@
+{
+    "status": "success",
+    "message": "Data fetch successfully",
+    "dashboard": {
+      "userMetrics": {
+        "daily": {
+          "totalUser": 13,
+          "totalReferral": 20,
+          "activeUser": 22,
+          "creator": 6,
+          "chartData": [
+            {
+              "timestamp": "2025-01-24 17:52:15",
+              "count": 228
+            },
+            {
+              "timestamp": "2025-01-24 03:22:11",
+              "count": 94
+            },
+            {
+              "timestamp": "2025-01-24 04:55:49",
+              "count": 457
+            },
+            {
+              "timestamp": "2025-01-24 04:01:13",
+              "count": 255
+            },
+            {
+              "timestamp": "2025-01-24 16:19:58",
+              "count": 190
+            },
+            {
+              "timestamp": "2025-01-24 03:01:23",
+              "count": 282
+            },
+            {
+              "timestamp": "2025-01-24 00:45:20",
+              "count": 232
+            },
+            {
+              "timestamp": "2025-01-24 03:31:51",
+              "count": 77
+            },
+            {
+              "timestamp": "2025-01-24 16:52:23",
+              "count": 324
+            },
+            {
+              "timestamp": "2025-01-24 07:18:38",
+              "count": 141
+            },
+            {
+              "timestamp": "2025-01-24 07:59:37",
+              "count": 290
+            },
+            {
+              "timestamp": "2025-01-24 08:54:40",
+              "count": 498
+            },
+            {
+              "timestamp": "2025-01-24 10:28:57",
+              "count": 134
+            },
+            {
+              "timestamp": "2025-01-24 04:00:10",
+              "count": 395
+            },
+            {
+              "timestamp": "2025-01-24 10:52:18",
+              "count": 224
+            },
+            {
+              "timestamp": "2025-01-24 22:19:39",
+              "count": 284
+            },
+            {
+              "timestamp": "2025-01-24 08:24:45",
+              "count": 494
+            },
+            {
+              "timestamp": "2025-01-24 17:34:47",
+              "count": 413
+            },
+            {
+              "timestamp": "2025-01-24 21:21:47",
+              "count": 367
+            },
+            {
+              "timestamp": "2025-01-24 01:56:35",
+              "count": 119
+            },
+            {
+              "timestamp": "2025-01-24 22:53:03",
+              "count": 38
+            },
+            {
+              "timestamp": "2025-01-24 13:03:23",
+              "count": 143
+            },
+            {
+              "timestamp": "2025-01-24 22:06:32",
+              "count": 256
+            },
+            {
+              "timestamp": "2025-01-24 01:06:44",
+              "count": 107
+            },
+            {
+              "timestamp": "2025-01-24 16:32:34",
+              "count": 284
+            },
+            {
+              "timestamp": "2025-01-24 20:28:31",
+              "count": 26
+            },
+            {
+              "timestamp": "2025-01-24 22:01:11",
+              "count": 204
+            },
+            {
+              "timestamp": "2025-01-24 16:33:35",
+              "count": 163
+            },
+            {
+              "timestamp": "2025-01-24 03:39:52",
+              "count": 239
+            },
+            {
+              "timestamp": "2025-01-24 17:13:27",
+              "count": 162
+            },
+            {
+              "timestamp": "2025-01-24 03:31:22",
+              "count": 10
+            },
+            {
+              "timestamp": "2025-01-24 21:20:14",
+              "count": 157
+            },
+            {
+              "timestamp": "2025-01-24 08:04:00",
+              "count": 459
+            },
+            {
+              "timestamp": "2025-01-24 07:48:28",
+              "count": 319
+            },
+            {
+              "timestamp": "2025-01-24 11:27:47",
+              "count": 115
+            },
+            {
+              "timestamp": "2025-01-24 02:57:22",
+              "count": 468
+            },
+            {
+              "timestamp": "2025-01-24 04:43:09",
+              "count": 128
+            },
+            {
+              "timestamp": "2025-01-24 11:08:38",
+              "count": 126
+            },
+            {
+              "timestamp": "2025-01-24 09:56:54",
+              "count": 72
+            },
+            {
+              "timestamp": "2025-01-24 10:48:29",
+              "count": 420
+            },
+            {
+              "timestamp": "2025-01-24 02:13:51",
+              "count": 192
+            },
+            {
+              "timestamp": "2025-01-24 07:00:43",
+              "count": 242
+            },
+            {
+              "timestamp": "2025-01-24 05:25:05",
+              "count": 348
+            },
+            {
+              "timestamp": "2025-01-24 14:41:08",
+              "count": 313
+            },
+            {
+              "timestamp": "2025-01-24 06:00:47",
+              "count": 212
+            },
+            {
+              "timestamp": "2025-01-24 11:44:23",
+              "count": 113
+            },
+            {
+              "timestamp": "2025-01-24 05:12:52",
+              "count": 105
+            },
+            {
+              "timestamp": "2025-01-24 02:32:16",
+              "count": 136
+            },
+            {
+              "timestamp": "2025-01-24 08:18:28",
+              "count": 287
+            },
+            {
+              "timestamp": "2025-01-24 13:21:27",
+              "count": 274
+            }
+          ]
+        },
+        "monthly": {
+          "totalUser": 13516,
+          "totalReferral": 1947,
+          "activeUser": 1843,
+          "creator": 224,
+          "chartData": [
+            {
+              "timestamp": "2025-01-20 23:29:03",
+              "count": 1466
+            },
+            {
+              "timestamp": "2025-01-11 12:57:39",
+              "count": 838
+            },
+            {
+              "timestamp": "2025-01-02 09:06:12",
+              "count": 284
+            },
+            {
+              "timestamp": "2025-01-13 02:35:20",
+              "count": 808
+            },
+            {
+              "timestamp": "2025-01-10 00:17:52",
+              "count": 1443
+            },
+            {
+              "timestamp": "2025-01-24 17:17:48",
+              "count": 317
+            },
+            {
+              "timestamp": "2025-01-19 23:11:44",
+              "count": 228
+            },
+            {
+              "timestamp": "2025-01-19 06:52:49",
+              "count": 910
+            },
+            {
+              "timestamp": "2025-01-05 21:04:43",
+              "count": 1246
+            },
+            {
+              "timestamp": "2025-01-14 19:07:37",
+              "count": 520
+            },
+            {
+              "timestamp": "2025-01-18 19:55:27",
+              "count": 609
+            },
+            {
+              "timestamp": "2025-01-17 00:59:38",
+              "count": 293
+            },
+            {
+              "timestamp": "2025-01-10 11:21:46",
+              "count": 1226
+            },
+            {
+              "timestamp": "2025-01-01 02:59:03",
+              "count": 793
+            },
+            {
+              "timestamp": "2025-01-30 18:46:04",
+              "count": 1390
+            },
+            {
+              "timestamp": "2025-01-07 04:47:05",
+              "count": 1169
+            },
+            {
+              "timestamp": "2025-01-02 18:55:26",
+              "count": 1432
+            },
+            {
+              "timestamp": "2025-01-05 00:17:29",
+              "count": 377
+            },
+            {
+              "timestamp": "2025-01-28 00:48:03",
+              "count": 900
+            },
+            {
+              "timestamp": "2025-01-06 02:07:15",
+              "count": 53
+            },
+            {
+              "timestamp": "2025-01-25 19:49:42",
+              "count": 287
+            },
+            {
+              "timestamp": "2025-01-23 05:29:31",
+              "count": 471
+            },
+            {
+              "timestamp": "2025-01-16 06:45:22",
+              "count": 1099
+            },
+            {
+              "timestamp": "2025-01-10 21:13:58",
+              "count": 594
+            },
+            {
+              "timestamp": "2025-01-10 15:24:45",
+              "count": 987
+            },
+            {
+              "timestamp": "2025-01-10 21:37:19",
+              "count": 1031
+            },
+            {
+              "timestamp": "2025-01-04 10:54:10",
+              "count": 859
+            },
+            {
+              "timestamp": "2025-01-31 13:02:46",
+              "count": 777
+            },
+            {
+              "timestamp": "2025-01-12 00:02:07",
+              "count": 1246
+            },
+            {
+              "timestamp": "2025-01-21 01:54:59",
+              "count": 980
+            }
+          ]
+        },
+        "allTime": {
+          "totalUser": 117223,
+          "totalReferral": 27840,
+          "activeUser": 148540,
+          "creator": 17947
+        }
+      },
+      "contentMetrics": {
+        "daily": {
+          "totalPosts": 15,
+          "totalCategory": 10,
+          "totalPostExitCount": 27,
+          "totalPostShares": 15,
+          "totalViews": 231,
+          "totalComments": 37,
+          "totalPostBlocked": 2,
+          "totalPostDeleted": 3,
+          "chartData": [
+            {
+              "timestamp": "2025-01-24 19:11:20",
+              "count": 345
+            },
+            {
+              "timestamp": "2025-01-24 20:16:38",
+              "count": 363
+            },
+            {
+              "timestamp": "2025-01-24 03:34:57",
+              "count": 439
+            },
+            {
+              "timestamp": "2025-01-24 18:03:54",
+              "count": 26
+            },
+            {
+              "timestamp": "2025-01-24 15:09:15",
+              "count": 425
+            },
+            {
+              "timestamp": "2025-01-24 15:32:52",
+              "count": 110
+            },
+            {
+              "timestamp": "2025-01-24 07:07:23",
+              "count": 443
+            },
+            {
+              "timestamp": "2025-01-24 11:17:11",
+              "count": 4
+            },
+            {
+              "timestamp": "2025-01-24 09:58:16",
+              "count": 316
+            },
+            {
+              "timestamp": "2025-01-24 08:07:11",
+              "count": 71
+            },
+            {
+              "timestamp": "2025-01-24 08:18:00",
+              "count": 212
+            },
+            {
+              "timestamp": "2025-01-24 11:01:35",
+              "count": 194
+            },
+            {
+              "timestamp": "2025-01-24 13:45:16",
+              "count": 391
+            },
+            {
+              "timestamp": "2025-01-24 07:52:31",
+              "count": 348
+            },
+            {
+              "timestamp": "2025-01-24 18:00:42",
+              "count": 419
+            },
+            {
+              "timestamp": "2025-01-24 15:37:18",
+              "count": 104
+            },
+            {
+              "timestamp": "2025-01-24 01:11:42",
+              "count": 211
+            },
+            {
+              "timestamp": "2025-01-24 10:01:07",
+              "count": 104
+            },
+            {
+              "timestamp": "2025-01-24 12:46:52",
+              "count": 55
+            },
+            {
+              "timestamp": "2025-01-24 18:01:31",
+              "count": 356
+            },
+            {
+              "timestamp": "2025-01-24 10:14:53",
+              "count": 499
+            },
+            {
+              "timestamp": "2025-01-24 12:35:07",
+              "count": 157
+            },
+            {
+              "timestamp": "2025-01-24 18:29:32",
+              "count": 381
+            },
+            {
+              "timestamp": "2025-01-24 10:04:47",
+              "count": 254
+            },
+            {
+              "timestamp": "2025-01-24 03:28:30",
+              "count": 495
+            },
+            {
+              "timestamp": "2025-01-24 00:38:56",
+              "count": 243
+            },
+            {
+              "timestamp": "2025-01-24 15:35:03",
+              "count": 182
+            },
+            {
+              "timestamp": "2025-01-24 22:14:50",
+              "count": 96
+            },
+            {
+              "timestamp": "2025-01-24 09:15:03",
+              "count": 135
+            },
+            {
+              "timestamp": "2025-01-24 23:44:49",
+              "count": 120
+            },
+            {
+              "timestamp": "2025-01-24 23:39:46",
+              "count": 184
+            },
+            {
+              "timestamp": "2025-01-24 22:35:40",
+              "count": 231
+            },
+            {
+              "timestamp": "2025-01-24 18:29:37",
+              "count": 417
+            },
+            {
+              "timestamp": "2025-01-24 19:29:22",
+              "count": 195
+            },
+            {
+              "timestamp": "2025-01-24 04:51:31",
+              "count": 172
+            },
+            {
+              "timestamp": "2025-01-24 01:42:25",
+              "count": 59
+            },
+            {
+              "timestamp": "2025-01-24 00:05:22",
+              "count": 378
+            },
+            {
+              "timestamp": "2025-01-24 03:34:18",
+              "count": 64
+            },
+            {
+              "timestamp": "2025-01-24 04:35:43",
+              "count": 476
+            },
+            {
+              "timestamp": "2025-01-24 06:11:24",
+              "count": 489
+            },
+            {
+              "timestamp": "2025-01-24 09:14:28",
+              "count": 342
+            },
+            {
+              "timestamp": "2025-01-24 10:08:23",
+              "count": 175
+            },
+            {
+              "timestamp": "2025-01-24 16:04:37",
+              "count": 487
+            },
+            {
+              "timestamp": "2025-01-24 13:40:48",
+              "count": 109
+            },
+            {
+              "timestamp": "2025-01-24 15:51:28",
+              "count": 198
+            },
+            {
+              "timestamp": "2025-01-24 11:40:32",
+              "count": 83
+            },
+            {
+              "timestamp": "2025-01-24 02:42:10",
+              "count": 135
+            },
+            {
+              "timestamp": "2025-01-24 03:57:41",
+              "count": 108
+            },
+            {
+              "timestamp": "2025-01-24 02:03:49",
+              "count": 230
+            },
+            {
+              "timestamp": "2025-01-24 15:17:06",
+              "count": 48
+            }
+          ]
+        },
+        "monthly": {
+          "totalPosts": 18923,
+          "totalCategory": 196,
+          "totalPostExitCount": 652,
+          "totalPostShares": 349,
+          "totalViews": 35522,
+          "totalComments": 5184,
+          "totalPostBlocked": 199,
+          "totalPostDeleted": 63,
+          "chartData": [
+            {
+              "timestamp": "2025-01-31 23:33:01",
+              "count": 186
+            },
+            {
+              "timestamp": "2025-01-14 04:29:01",
+              "count": 1455
+            },
+            {
+              "timestamp": "2025-01-21 06:27:58",
+              "count": 1078
+            },
+            {
+              "timestamp": "2025-01-25 15:22:51",
+              "count": 394
+            },
+            {
+              "timestamp": "2025-01-17 08:28:31",
+              "count": 1106
+            },
+            {
+              "timestamp": "2025-01-24 22:15:05",
+              "count": 142
+            },
+            {
+              "timestamp": "2025-01-05 09:23:18",
+              "count": 1280
+            },
+            {
+              "timestamp": "2025-01-25 09:29:24",
+              "count": 420
+            },
+            {
+              "timestamp": "2025-01-12 10:00:13",
+              "count": 189
+            },
+            {
+              "timestamp": "2025-01-15 04:27:19",
+              "count": 951
+            },
+            {
+              "timestamp": "2025-01-15 20:12:18",
+              "count": 1111
+            },
+            {
+              "timestamp": "2025-01-23 09:28:14",
+              "count": 128
+            },
+            {
+              "timestamp": "2025-01-26 08:16:21",
+              "count": 494
+            },
+            {
+              "timestamp": "2025-01-01 12:27:28",
+              "count": 817
+            },
+            {
+              "timestamp": "2025-01-01 16:32:00",
+              "count": 485
+            },
+            {
+              "timestamp": "2025-01-24 09:35:02",
+              "count": 647
+            },
+            {
+              "timestamp": "2025-01-25 10:44:44",
+              "count": 263
+            },
+            {
+              "timestamp": "2025-01-21 13:33:22",
+              "count": 461
+            },
+            {
+              "timestamp": "2025-01-09 18:59:53",
+              "count": 1240
+            },
+            {
+              "timestamp": "2025-01-29 14:47:00",
+              "count": 804
+            },
+            {
+              "timestamp": "2025-01-23 06:30:47",
+              "count": 451
+            },
+            {
+              "timestamp": "2025-01-29 10:55:27",
+              "count": 153
+            },
+            {
+              "timestamp": "2025-01-29 06:19:15",
+              "count": 579
+            },
+            {
+              "timestamp": "2025-01-18 12:57:02",
+              "count": 19
+            },
+            {
+              "timestamp": "2025-01-01 12:36:33",
+              "count": 1309
+            },
+            {
+              "timestamp": "2025-01-21 03:49:08",
+              "count": 259
+            },
+            {
+              "timestamp": "2025-01-25 15:47:53",
+              "count": 1427
+            },
+            {
+              "timestamp": "2025-01-27 10:09:48",
+              "count": 1109
+            },
+            {
+              "timestamp": "2025-01-09 23:51:06",
+              "count": 511
+            },
+            {
+              "timestamp": "2025-01-04 17:12:11",
+              "count": 814
+            }
+          ]
+        },
+        "allTime": {
+          "totalPosts": 262421,
+          "totalCategory": 1355,
+          "totalPostExitCount": 54465,
+          "totalPostShares": 54025,
+          "totalViews": 1230669,
+          "totalComments": 358032,
+          "totalPostBlocked": 9329,
+          "totalPostDeleted": 4070
+        }
+      },
+      "engagementMetrics": {
+        "daily": {
+          "totalLikes": 26,
+          "totalViews": 60,
+          "totalNotifications": 6,
+          "totalMessage": 14,
+          "privateChats": 5,
+          "chartData": [
+            {
+              "timestamp": "2025-01-24 14:44:55",
+              "count": 455
+            },
+            {
+              "timestamp": "2025-01-24 04:33:23",
+              "count": 202
+            },
+            {
+              "timestamp": "2025-01-24 05:00:48",
+              "count": 194
+            },
+            {
+              "timestamp": "2025-01-24 02:17:41",
+              "count": 269
+            },
+            {
+              "timestamp": "2025-01-24 19:14:03",
+              "count": 344
+            },
+            {
+              "timestamp": "2025-01-24 20:39:34",
+              "count": 247
+            },
+            {
+              "timestamp": "2025-01-24 01:58:55",
+              "count": 354
+            },
+            {
+              "timestamp": "2025-01-24 07:31:13",
+              "count": 213
+            },
+            {
+              "timestamp": "2025-01-24 06:22:59",
+              "count": 132
+            },
+            {
+              "timestamp": "2025-01-24 10:18:14",
+              "count": 204
+            },
+            {
+              "timestamp": "2025-01-24 23:26:23",
+              "count": 124
+            },
+            {
+              "timestamp": "2025-01-24 19:17:47",
+              "count": 461
+            },
+            {
+              "timestamp": "2025-01-24 03:31:40",
+              "count": 325
+            },
+            {
+              "timestamp": "2025-01-24 17:08:42",
+              "count": 173
+            },
+            {
+              "timestamp": "2025-01-24 15:05:37",
+              "count": 171
+            },
+            {
+              "timestamp": "2025-01-24 20:07:52",
+              "count": 478
+            },
+            {
+              "timestamp": "2025-01-24 23:11:02",
+              "count": 468
+            },
+            {
+              "timestamp": "2025-01-24 22:42:41",
+              "count": 464
+            },
+            {
+              "timestamp": "2025-01-24 00:17:33",
+              "count": 305
+            },
+            {
+              "timestamp": "2025-01-24 00:47:25",
+              "count": 96
+            },
+            {
+              "timestamp": "2025-01-24 15:09:31",
+              "count": 300
+            },
+            {
+              "timestamp": "2025-01-24 14:25:57",
+              "count": 107
+            },
+            {
+              "timestamp": "2025-01-24 11:27:03",
+              "count": 3
+            },
+            {
+              "timestamp": "2025-01-24 19:08:48",
+              "count": 84
+            },
+            {
+              "timestamp": "2025-01-24 05:02:47",
+              "count": 11
+            },
+            {
+              "timestamp": "2025-01-24 05:34:34",
+              "count": 294
+            },
+            {
+              "timestamp": "2025-01-24 03:10:32",
+              "count": 292
+            },
+            {
+              "timestamp": "2025-01-24 21:17:35",
+              "count": 479
+            },
+            {
+              "timestamp": "2025-01-24 22:16:54",
+              "count": 232
+            },
+            {
+              "timestamp": "2025-01-24 08:23:29",
+              "count": 165
+            },
+            {
+              "timestamp": "2025-01-24 18:32:46",
+              "count": 291
+            },
+            {
+              "timestamp": "2025-01-24 01:00:47",
+              "count": 287
+            },
+            {
+              "timestamp": "2025-01-24 18:19:02",
+              "count": 396
+            },
+            {
+              "timestamp": "2025-01-24 05:30:28",
+              "count": 354
+            },
+            {
+              "timestamp": "2025-01-24 22:11:02",
+              "count": 212
+            },
+            {
+              "timestamp": "2025-01-24 12:08:57",
+              "count": 414
+            },
+            {
+              "timestamp": "2025-01-24 12:38:02",
+              "count": 378
+            },
+            {
+              "timestamp": "2025-01-24 20:51:36",
+              "count": 393
+            },
+            {
+              "timestamp": "2025-01-24 03:35:08",
+              "count": 63
+            },
+            {
+              "timestamp": "2025-01-24 00:31:16",
+              "count": 199
+            },
+            {
+              "timestamp": "2025-01-24 23:46:25",
+              "count": 413
+            },
+            {
+              "timestamp": "2025-01-24 00:18:23",
+              "count": 441
+            },
+            {
+              "timestamp": "2025-01-24 10:33:58",
+              "count": 281
+            },
+            {
+              "timestamp": "2025-01-24 01:08:18",
+              "count": 369
+            },
+            {
+              "timestamp": "2025-01-24 06:37:09",
+              "count": 252
+            },
+            {
+              "timestamp": "2025-01-24 03:44:10",
+              "count": 227
+            },
+            {
+              "timestamp": "2025-01-24 00:34:27",
+              "count": 169
+            },
+            {
+              "timestamp": "2025-01-24 02:17:03",
+              "count": 34
+            },
+            {
+              "timestamp": "2025-01-24 15:46:39",
+              "count": 251
+            },
+            {
+              "timestamp": "2025-01-24 17:10:00",
+              "count": 369
+            }
+          ]
+        },
+        "monthly": {
+          "totalLikes": 17607,
+          "totalViews": 53704,
+          "totalNotifications": 2114,
+          "totalMessage": 557,
+          "privateChats": 804,
+          "chartData": [
+            {
+              "timestamp": "2025-01-17 07:03:11",
+              "count": 1200
+            },
+            {
+              "timestamp": "2025-01-19 09:10:10",
+              "count": 226
+            },
+            {
+              "timestamp": "2025-01-08 13:49:29",
+              "count": 415
+            },
+            {
+              "timestamp": "2025-01-07 10:15:09",
+              "count": 332
+            },
+            {
+              "timestamp": "2025-01-26 10:55:17",
+              "count": 481
+            },
+            {
+              "timestamp": "2025-01-07 03:31:33",
+              "count": 606
+            },
+            {
+              "timestamp": "2025-01-26 01:17:28",
+              "count": 1412
+            },
+            {
+              "timestamp": "2025-01-15 17:08:12",
+              "count": 1091
+            },
+            {
+              "timestamp": "2025-01-28 05:58:10",
+              "count": 758
+            },
+            {
+              "timestamp": "2025-01-07 03:20:32",
+              "count": 28
+            },
+            {
+              "timestamp": "2025-01-13 05:28:19",
+              "count": 763
+            },
+            {
+              "timestamp": "2025-01-02 09:12:54",
+              "count": 1186
+            },
+            {
+              "timestamp": "2025-01-13 03:34:03",
+              "count": 801
+            },
+            {
+              "timestamp": "2025-01-18 17:23:03",
+              "count": 376
+            },
+            {
+              "timestamp": "2025-01-21 04:10:22",
+              "count": 57
+            },
+            {
+              "timestamp": "2025-01-14 11:33:50",
+              "count": 937
+            },
+            {
+              "timestamp": "2025-01-10 08:34:10",
+              "count": 742
+            },
+            {
+              "timestamp": "2025-01-21 21:01:27",
+              "count": 58
+            },
+            {
+              "timestamp": "2025-01-11 12:17:43",
+              "count": 38
+            },
+            {
+              "timestamp": "2025-01-16 09:21:32",
+              "count": 1282
+            },
+            {
+              "timestamp": "2025-01-10 23:57:19",
+              "count": 737
+            },
+            {
+              "timestamp": "2025-01-01 15:14:42",
+              "count": 545
+            },
+            {
+              "timestamp": "2025-01-02 07:06:30",
+              "count": 790
+            },
+            {
+              "timestamp": "2025-01-16 17:41:46",
+              "count": 1150
+            },
+            {
+              "timestamp": "2025-01-30 08:58:53",
+              "count": 1152
+            },
+            {
+              "timestamp": "2025-01-10 10:38:47",
+              "count": 287
+            },
+            {
+              "timestamp": "2025-01-03 18:59:22",
+              "count": 1378
+            },
+            {
+              "timestamp": "2025-01-11 21:21:42",
+              "count": 708
+            },
+            {
+              "timestamp": "2025-01-13 10:34:02",
+              "count": 560
+            },
+            {
+              "timestamp": "2025-01-31 06:29:31",
+              "count": 978
+            }
+          ]
+        },
+        "allTime": {
+          "totalLikes": 443164,
+          "totalViews": 1140299,
+          "totalNotifications": 72193,
+          "totalMessage": 67303,
+          "privateChats": 29626
+        }
+      },
+      "blockchainMetrics": {
+        "daily": {
+          "totalTokens": 35,
+          "totalWalletOnSolana": 13,
+          "totalWalletOnPolygon": 13,
+          "totalWalletOnEthereum": 17,
+          "chartData": [
+            {
+              "timestamp": "2025-01-24 15:26:02",
+              "count": 469
+            },
+            {
+              "timestamp": "2025-01-24 10:34:44",
+              "count": 284
+            },
+            {
+              "timestamp": "2025-01-24 04:09:57",
+              "count": 402
+            },
+            {
+              "timestamp": "2025-01-24 15:14:43",
+              "count": 162
+            },
+            {
+              "timestamp": "2025-01-24 12:04:52",
+              "count": 268
+            },
+            {
+              "timestamp": "2025-01-24 08:12:02",
+              "count": 431
+            },
+            {
+              "timestamp": "2025-01-24 10:14:26",
+              "count": 116
+            },
+            {
+              "timestamp": "2025-01-24 19:13:04",
+              "count": 291
+            },
+            {
+              "timestamp": "2025-01-24 21:54:21",
+              "count": 144
+            },
+            {
+              "timestamp": "2025-01-24 14:53:08",
+              "count": 304
+            },
+            {
+              "timestamp": "2025-01-24 01:12:56",
+              "count": 371
+            },
+            {
+              "timestamp": "2025-01-24 14:44:38",
+              "count": 288
+            },
+            {
+              "timestamp": "2025-01-24 11:45:43",
+              "count": 195
+            },
+            {
+              "timestamp": "2025-01-24 13:29:29",
+              "count": 44
+            },
+            {
+              "timestamp": "2025-01-24 00:21:23",
+              "count": 297
+            },
+            {
+              "timestamp": "2025-01-24 15:33:53",
+              "count": 24
+            },
+            {
+              "timestamp": "2025-01-24 20:18:04",
+              "count": 43
+            },
+            {
+              "timestamp": "2025-01-24 22:44:57",
+              "count": 10
+            },
+            {
+              "timestamp": "2025-01-24 08:09:37",
+              "count": 208
+            },
+            {
+              "timestamp": "2025-01-24 03:43:54",
+              "count": 337
+            },
+            {
+              "timestamp": "2025-01-24 02:51:25",
+              "count": 45
+            },
+            {
+              "timestamp": "2025-01-24 15:19:51",
+              "count": 258
+            },
+            {
+              "timestamp": "2025-01-24 14:09:26",
+              "count": 2
+            },
+            {
+              "timestamp": "2025-01-24 05:40:29",
+              "count": 125
+            },
+            {
+              "timestamp": "2025-01-24 08:27:22",
+              "count": 249
+            },
+            {
+              "timestamp": "2025-01-24 07:04:42",
+              "count": 363
+            },
+            {
+              "timestamp": "2025-01-24 11:53:28",
+              "count": 98
+            },
+            {
+              "timestamp": "2025-01-24 09:03:14",
+              "count": 328
+            },
+            {
+              "timestamp": "2025-01-24 10:29:25",
+              "count": 153
+            },
+            {
+              "timestamp": "2025-01-24 09:35:02",
+              "count": 279
+            },
+            {
+              "timestamp": "2025-01-24 13:40:17",
+              "count": 167
+            },
+            {
+              "timestamp": "2025-01-24 00:28:32",
+              "count": 351
+            },
+            {
+              "timestamp": "2025-01-24 05:26:40",
+              "count": 268
+            },
+            {
+              "timestamp": "2025-01-24 22:25:21",
+              "count": 159
+            },
+            {
+              "timestamp": "2025-01-24 10:06:48",
+              "count": 167
+            },
+            {
+              "timestamp": "2025-01-24 01:43:03",
+              "count": 274
+            },
+            {
+              "timestamp": "2025-01-24 08:54:30",
+              "count": 393
+            },
+            {
+              "timestamp": "2025-01-24 07:40:13",
+              "count": 58
+            },
+            {
+              "timestamp": "2025-01-24 04:33:33",
+              "count": 86
+            },
+            {
+              "timestamp": "2025-01-24 00:20:19",
+              "count": 333
+            },
+            {
+              "timestamp": "2025-01-24 10:14:42",
+              "count": 241
+            },
+            {
+              "timestamp": "2025-01-24 12:11:43",
+              "count": 68
+            },
+            {
+              "timestamp": "2025-01-24 13:21:04",
+              "count": 120
+            },
+            {
+              "timestamp": "2025-01-24 19:02:10",
+              "count": 269
+            },
+            {
+              "timestamp": "2025-01-24 17:40:47",
+              "count": 35
+            },
+            {
+              "timestamp": "2025-01-24 08:11:59",
+              "count": 392
+            },
+            {
+              "timestamp": "2025-01-24 16:38:21",
+              "count": 303
+            },
+            {
+              "timestamp": "2025-01-24 14:46:38",
+              "count": 180
+            },
+            {
+              "timestamp": "2025-01-24 05:56:20",
+              "count": 71
+            },
+            {
+              "timestamp": "2025-01-24 00:13:50",
+              "count": 436
+            }
+          ]
+        },
+        "monthly": {
+          "totalTokens": 37975,
+          "totalWalletOnSolana": 1392,
+          "totalWalletOnPolygon": 1805,
+          "totalWalletOnEthereum": 3094,
+          "chartData": [
+            {
+              "timestamp": "2025-01-25 05:13:17",
+              "count": 1160
+            },
+            {
+              "timestamp": "2025-01-12 02:23:36",
+              "count": 1438
+            },
+            {
+              "timestamp": "2025-01-29 08:27:55",
+              "count": 8
+            },
+            {
+              "timestamp": "2025-01-04 14:31:06",
+              "count": 927
+            },
+            {
+              "timestamp": "2025-01-22 23:15:02",
+              "count": 396
+            },
+            {
+              "timestamp": "2025-01-12 22:17:08",
+              "count": 1351
+            },
+            {
+              "timestamp": "2025-01-27 05:17:36",
+              "count": 766
+            },
+            {
+              "timestamp": "2025-01-07 12:24:11",
+              "count": 1301
+            },
+            {
+              "timestamp": "2025-01-24 15:50:00",
+              "count": 660
+            },
+            {
+              "timestamp": "2025-01-20 22:57:56",
+              "count": 467
+            },
+            {
+              "timestamp": "2025-01-04 02:47:02",
+              "count": 1306
+            },
+            {
+              "timestamp": "2025-01-05 12:50:13",
+              "count": 1214
+            },
+            {
+              "timestamp": "2025-01-25 13:01:18",
+              "count": 725
+            },
+            {
+              "timestamp": "2025-01-25 05:38:23",
+              "count": 1365
+            },
+            {
+              "timestamp": "2025-01-12 10:46:58",
+              "count": 465
+            },
+            {
+              "timestamp": "2025-01-23 16:36:43",
+              "count": 182
+            },
+            {
+              "timestamp": "2025-01-06 23:21:34",
+              "count": 1133
+            },
+            {
+              "timestamp": "2025-01-03 11:50:54",
+              "count": 1454
+            },
+            {
+              "timestamp": "2025-01-29 13:50:13",
+              "count": 651
+            },
+            {
+              "timestamp": "2025-01-24 08:38:52",
+              "count": 666
+            },
+            {
+              "timestamp": "2025-01-09 23:56:08",
+              "count": 63
+            },
+            {
+              "timestamp": "2025-01-19 08:11:03",
+              "count": 1479
+            },
+            {
+              "timestamp": "2025-01-21 10:56:26",
+              "count": 1292
+            },
+            {
+              "timestamp": "2025-01-01 18:33:23",
+              "count": 779
+            },
+            {
+              "timestamp": "2025-01-18 13:43:29",
+              "count": 854
+            },
+            {
+              "timestamp": "2025-01-06 03:02:22",
+              "count": 689
+            },
+            {
+              "timestamp": "2025-01-12 12:39:11",
+              "count": 548
+            },
+            {
+              "timestamp": "2025-01-23 01:18:56",
+              "count": 644
+            },
+            {
+              "timestamp": "2025-01-06 11:22:32",
+              "count": 596
+            },
+            {
+              "timestamp": "2025-01-09 20:39:26",
+              "count": 895
+            }
+          ]
+        },
+        "allTime": {
+          "totalTokens": 858893,
+          "totalWalletOnSolana": 332918,
+          "totalWalletOnPolygon": 621116,
+          "totalWalletOnEthereum": 467942,
+          "totalChains": [
+            "Polygon",
+            "Ethereum",
+            "Solana"
+          ]
+        }
+      }
+    }
+  }

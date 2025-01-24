@@ -1,0 +1,52 @@
+.user-metrics-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .user-metrics-header {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .user-metrics-header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .user-metrics-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .user-metrics-statistics {
+    flex: 1 1 50%;
+  }
+  
+  .user-metrics-statistics h3 {
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+    color: #555;
+  }
+  
+  .user-metrics-statistics ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .user-metrics-statistics ul li {
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  .user-metrics-chart {
+    flex: 1 1 50%;
+    width: 100%;
+    height: 250px;
+  }
+  

@@ -1,0 +1,52 @@
+.blockchain-metrics-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .blockchain-metrics-header {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .blockchain-metrics-header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .blockchain-metrics-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .blockchain-metrics-statistics {
+    flex: 1 1 50%;
+  }
+  
+  .blockchain-metrics-statistics h3 {
+    margin-bottom: 12px;
+    font-size: 1.25rem;
+    color: #555;
+  }
+  
+  .blockchain-metrics-statistics ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .blockchain-metrics-statistics ul li {
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  .blockchain-metrics-chart {
+    flex: 1 1 50%;
+    width: 100%;
+    height: 250px;
+  }
+  
