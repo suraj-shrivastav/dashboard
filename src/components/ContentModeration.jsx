@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Table } from 'react-bootstrap';
-import './contentModeration.css';
+import './ContentModeration.css';
 
 const ContentModeration = ({ data }) => {
   const { daily, monthly } = data;
